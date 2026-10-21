@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vumika👋</h1>
+<h1 align="center">Hi, I'm Aparna👋</h1>
 
 <p align="center">
   Full-stack developer • AI developer • Data Science student
